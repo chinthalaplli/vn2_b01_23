@@ -1,0 +1,5 @@
+name=input("enter the name")
+passnumber=int(input("enter the pass number"))
+WHERE = input("enterthe from")
+to=input("enter the to")
+amount=int(input("enter the amount"))

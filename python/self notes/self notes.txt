@@ -1,0 +1,10 @@
+Python Instance Variables Explained With Examples
+Updated on: October 21, 2021 | 3 Comments
+
+There are several kinds of variables in Python:
+
+Instance variables in a class: these are called fields or attributes of an object
+Local Variables: Variables in a method or block of code
+Parameters: Variables in method declarations
+Class variables: This variable is shared between all objects of a class
+In Object-oriented programming, when we design a class, we use instance variables and class variables.
