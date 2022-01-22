@@ -1,0 +1,12 @@
+https://github.com/chinthalaplli/vn2_b01_23.git
+
+git init
+git add .
+
+git status
+git commit -m "chinthalapalli"
+
+git config --global user.email "chbasireddy1122@gmail.com"
+
+git status
+git remote add origin repositorylink
